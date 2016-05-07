@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Testing</title>
+<style>
+#table1 td {
+    border: 1px solid #ff00ff;
+}
+</style>
+</head>
+<body>
+<h1>Hello Heading!</h1>
+<h2>Hello Heading2!</h2>
+<h2>Hello Heading3!</h3>
+<h6>Hello Heading6!</h6>
+
+<p>We are living in a world of fools.</p>
+
+<p align="center">
+<iframe width="854" height="480" src="https://www.youtube.com/embed/XpqqjU7u5Yc?list=LLIFVuD2t6i6z-yLgg2BayJQ" frameborder="0" allowfullscreen></iframe>
+</p>
+<p align="center">
+<img src="IMG_20140618_171851.jpg" alt="cutie" style="width:500px;height:500px;">
+</p>
+
+<p align="center">table1
+<table id='table1'>
+
+   <th>head2</th>  <th>head2</th>  <th>head2</th>  <th>head2</th>  <th>head2</th>  <th>head2</th>  <th>head2</th>  <th>head2</th>  <th>head2</th>  <th>head2</th>
+  <tr>
+    <td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td>
+  </tr>
+ <tr>
+<td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td>  </tr>
+   <tr>
+<td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td> </tr>
+</table>
+</p>
+
+
+<p>table2</p>
+<table>
+   <th>head2</th><th>head2</th><th>head2</th><th>head2</th><th>head2</th><th>head2</th><th>head2</th><th>head2</th><th>head2</th><th>head2</th>
+  <tr>
+    <td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td>
+  </tr>
+
+ <tr>
+    <td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td>
+  </tr>
+  
+   <tr>
+    <td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
